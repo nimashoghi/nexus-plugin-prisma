@@ -3513,6 +3513,14 @@ fs-jetpack@^2.2.3, fs-jetpack@^2.4.0:
     minimatch "^3.0.2"
     rimraf "^2.6.3"
 
+fs-jetpack@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/fs-jetpack/-/fs-jetpack-3.0.0.tgz#a43970a702ade8f74df18e7838f0138fee777cf7"
+  integrity sha512-xw+eRyncZ2WxvS1UM/3p5GLhyiiSRVMg6AsvpzpllHarfuyLwi3YnUjMc09fqRCHeAUymXkmFxNgiXH/yvmdHA==
+  dependencies:
+    minimatch "^3.0.2"
+    rimraf "^2.6.3"
+
 fs-minipass@^1.2.5:
   version "1.2.7"
   resolved "https://registry.yarnpkg.com/fs-minipass/-/fs-minipass-1.2.7.tgz#ccff8570841e7fe4265693da88936c55aed7f7c7"
